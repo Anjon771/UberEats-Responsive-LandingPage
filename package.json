@@ -1,0 +1,14 @@
+{
+  "name": "uber-eats-landing-page",
+  "version": "1.0.0",
+  "description": "Uber Eats Responsive Landing Page",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo \"Static site build complete\"",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
